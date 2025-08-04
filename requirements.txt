@@ -1,0 +1,9 @@
+Flask
+Flask-CORS
+gunicorn
+pandas
+numpy
+scikit-learn
+transformers
+tensorflow
+joblib

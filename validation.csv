@@ -1,0 +1,371 @@
+Timestamp,Username,1. Age (in January 2025) ,2. Gender,3. Citizenship Status,4. What is your household's monthly income range?  ,5. Number of SPM subjects,6. Grades for each core SPM subjects  [Bahasa Melayu],6. Grades for each core SPM subjects  [Bahasa Inggeris],6. Grades for each core SPM subjects  [Sejarah],6. Grades for each core SPM subjects  [Matematik],"7. Grades for each additional SPM subject ( If you did not take the subject, please select ""None"" ) [Pendidikan Islam]","7. Grades for each additional SPM subject ( If you did not take the subject, please select ""None"" ) [Pendidikan Moral]","7. Grades for each additional SPM subject ( If you did not take the subject, please select ""None"" ) [Matematik Tambahan]","7. Grades for each additional SPM subject ( If you did not take the subject, please select ""None"" ) [Fizik]","7. Grades for each additional SPM subject ( If you did not take the subject, please select ""None"" ) [Kimia]","7. Grades for each additional SPM subject ( If you did not take the subject, please select ""None"" ) [Biologi]","7. Grades for each additional SPM subject ( If you did not take the subject, please select ""None"" ) [Prinsip Perakaunan]","7. Grades for each additional SPM subject ( If you did not take the subject, please select ""None"" ) [Ekonomi]",8. PAJSK Score (range: 0.00 – 10.00),"9. Top 5 Co-curricular Highest Achievements
+
+Example:
+- Gold Medalist in the International Mathematics Olympiad (IMO) 2023
+- President of the Science & Innovation Club, Organized National STEM Fair 2022
+- Captain of the State Football Team, Represented Malaysia in ASEAN Youth Championship
+(Please continue in this format until you have listed 5 achievements.)","10. What is your CGPA for your pre-university program?
+(e.g., Diploma, Foundation, Matrikulasi, or STPM)
+
+Example: 
+3.96","11. What is your CGPA for your first semester in degree study? 
+
+Example: 
+3.96  ",12. What is your current field of study?,"13. Are you currently receiving a merit-based scholarship (not a loan or PTPTN)?
+(e.g., JPA, university excellence scholarship, state foundation scholarships, etc)"
+2025/04/21 3:03:17 PM GMT+8,,23,Female,Malaysian,"Below RM4,850",9,A,A+,A,B+,,A,A+,A,A+,A+,,,8.03,";Volunteer in Blood Donation Drive
+;Class Monitor
+;Represented Malaysia in World Theatre 
+;Assistant Treasurer of Club
+;Committee Member of Eco Club",3.96,3.5,Others,Yes
+2025/05/09 11:34:40 PM GMT+8,,23,Male,Malaysian,"RM4,851 – RM7,100",7,B+,B+,B,C,A+,,A-,,,B,,,8.42,";Gold Medalist for World Pipe Band Championships 2019
+;Represented Malaysia for Taekwondo World Championships ",2.88,3.09,"Business, Management & Finance",No
+2025/05/01 12:52:18 PM GMT+8,,23,Female,Malaysian,"Below RM4,850",9,A,A,B+,A+,A+,,D,C+,C,C,,,5.5,;International camping,3.2,3.11,Computer Science & Information Technology,No
+2025/03/27 6:50:48 PM GMT+8,adam.dlamini596@gmail.com,20,Female,Malaysian,"RM10,971 – RM15,040",9,B+,A-,A+,A+,,A,A,B,A-,A,,,8.5,";National Debate Champion
+;President of Robotics Club
+;State-level Math Olympiad
+;Best Prefect Award
+;Lead Organizer of Innovation Fair",3.92,3.58,Economics / Public Policy,Yes
+2025/05/10 5:39:13 PM GMT+8,,23,Female,Malaysian,"RM4,851 – RM7,100",10,A+,A,B+,B,,B,,A+,A+,A-,B+,A,8.5,";Mentor of Community-level Debate Championship 2023
+;Chairperson of Inter-School Innovation Expo 2024
+;Coordinator of Inter-School Innovation Expo 2023
+;Coordinator of Inter-School Debate Championship 2020
+;Mentor of State Digital Arts Contest 2021",3.25,3.96,Computer Science & Information Technology,Yes
+2025/06/30 7:49:29 PM GMT+8,,21,Female,Malaysian,"Above RM15,040",9,A+,A+,A+,A+,A-,,A,A,A-,A-,,,9.82,";Gold Medalist in the International Mathematics Olympiad (IMO) 2023
+;Bronze Medalist in National Archery Championship
+;First Prize in ASEAN Chemistry Quiz 2023
+;Volunteered 100 Hours at Local Public Library
+;National Finalist in Microsoft Imagine Cup Malaysia",3.92,3.96,Accounting,No
+2025/05/04 5:58:43 PM GMT+8,,21,Female,Malaysian,"RM10,971 – RM15,040",10,B,A-,B+,A,,A,B,A,A-,A,,B,8.58,";Champion of Malaysia National Future Entrepreneurs League 2022 
+;President of Journalism and Media Club, Directed National Media Youth Day 2023 
+;Organizer of Future Skills for Youth Summit 2022 
+;Defender for State Basketball Team, Participated in Youth National Cup 
+;Selected for International Environmental Future Leaders Program 2023",3.99,3.91,"Business, Management & Finance",Yes
+2025/05/04 8:16:39 PM GMT+8,,23,Male,Malaysian,"RM7,101 – RM10,970",9,B,A+,B+,A+,B+,,C+,A,B+,D,,,7.31,";Attendee of Leadership Camp
+;Participant in Storytelling Session
+;Participant in Science Experiments Project",2.63,2.64,"Business, Management & Finance",No
+2025/05/05 11:32:54 PM GMT+8,,20,Female,Malaysian,"RM4,851 – RM7,100",9,B,B+,C+,A-,C+,,,B,,C,A+,D,6.42,;Participant in Mini Recycling Competition,3.28,3.32,"Business, Management & Finance",No
+2025/05/04 11:37:15 PM GMT+8,,23,Male,Malaysian,"Below RM4,850",8,A,A-,B,C,,A+,,A,A+,A+,,,7.02,;Volunteer for School Decoration Committee,3,2.83,Others,No
+2025/05/10 5:01:14 PM GMT+8,,23,Female,Malaysian,"RM10,971 – RM15,040",9,G,A+,D,A,,A,B+,,C+,C+,,B,5.87,";Booth Helper during Sports Day
+;Participated in School Clean-up",2.64,3.45,Others,No
+2025/05/09 9:07:47 PM GMT+8,,20,Male,Malaysian,"Below RM4,850",9,E,C,D,G,D,,,B+,D,,,C+,9.9,;Class Monitor,3.99,3.19,Actuarial Science / Statistics,No
+2025/06/30 3:05:19 PM GMT+8,,21,Female,Malaysian,"RM7,101 – RM10,970",9,A,A,A,A,,A+,A+,A,A,A,,,9.35,";Conducted Mask Distribution Drive During Pandemic
+;Volunteered 100 Hours at Local Public Library
+;Head Prefect of Secondary School, Managed 30-member discipline team
+;School MVP for Track & Field 2023
+;Top Scorer in District Basketball League 2022
+",3.98,3.86,Engineering,No
+2025/05/10 9:56:28 PM GMT+8,,Others,Female,Malaysian,"RM10,971 – RM15,040",9,C+,G,G,E,C+,,C,C+,C+,D,,,8.58,;Committee Member of Eco Club,3.59,3,Computer Science & Information Technology,No
+2025/05/04 1:22:55 PM GMT+8,,20,Male,Malaysian,"Below RM4,850",11,B,B+,A-,B,B,,A+,A+,A-,B,B,B,9.07,";Winner of Malaysia Junior Data Science Hackathon 2022 
+;President of Social Innovation Club, Directed Youth Innovation Summit 2023 
+;Coordinator for Regional Green Technology Challenge 2022 
+;Team Captain for State Table Tennis Team, Finalist at Nationals 
+;Selected for UNESCO Youth Science Ambassador Program 2023
+",3.59,3.96,Actuarial Science / Statistics,Yes
+2025/03/27 6:52:45 PM GMT+8,narongwairimu@gmail.com,22,Female,Malaysian,"Above RM15,040",8,C+,G,G,C,,G,B,B,,,,B+,7.2,";Assistant Stage Crew Member
+;Volunteer for Water Station in Marathon",3.67,3.97,Computer Science & Information Technology,No
+2025/05/10 10:23:18 PM GMT+8,,22,Female,Malaysian,"RM10,971 – RM15,040",8,A,A,A-,C,,G,,,,C+,C,G,9.14,;Attended School Leadership Talk,2.92,3.51,Computer Science & Information Technology,Yes
+2025/06/30 2:32:18 PM GMT+8,,21,Female,Malaysian,"RM7,101 – RM10,970",9,A,A,A,A,,A,A+,A-,A-,A-,,,9.45,";Top Scorer in National Science Challenge 2023
+;Best Solo Performance in National Music Festival
+;Led Donation Campaign for War Victims
+;Co-founder of 'Books for Hope' Donation Program
+;Secretary of Student Council, Led Mental Health Awareness Campaign",3.93,3.95,Others,Yes
+2025/05/04 8:25:48 PM GMT+8,,20,Male,Malaysian,"RM7,101 – RM10,970",10,A,A,A+,C,,A-,,A-,D,C+,B,A+,6.43,Leadership roles,3.29,2.87,"Business, Management & Finance",No
+2025/05/09 11:36:23 PM GMT+8,,22,Male,Malaysian,"Above RM15,040",9,A,A+,D,C+,,B,D,B,,,B,E,7.71,";Volunteer in Blood Donation Drive
+;Participated in Online Student forum",3.58,3.41,Engineering,No
+2025/07/01 1:26:40 PM GMT+8,,22,Male,Malaysian,"Below RM4,850",10,A,A,A,A,,A+,A,A,A,A,,A-,9.45,";Founder of University-level Science Fair 2024
+;Mentor of National Robotics League 2020
+;Chairperson of National Science Fair 2021
+;President of ASEAN Innovation Expo 2023
+;Lead of Inter-School Digital Arts Contest 2022",3.97,3.87,Engineering,No
+2025/05/10 11:18:08 PM GMT+8,,23,Female,Malaysian,"RM7,101 – RM10,970",9,A+,A,D,C+,D,,A+,,,,G,D,7.95,";Joined Photography Club
+;Member of Library Club",2.92,2.84,Actuarial Science / Statistics,No
+2025/05/04 11:06:47 PM GMT+8,,22,Male,Malaysian,"RM10,971 – RM15,040",9,C+,B,A+,A+,,A,A,A,A-,C,,,7.06,";Assistant Stage Crew Member
+;Volunteer for Water Station in Marathon
+;Member of Computer Literacy Program",3.32,3.23,Science & Mathematics,No
+2025/05/10 6:47:21 PM GMT+8,,23,Female,Malaysian,"RM4,851 – RM7,100",8,A-,B,B,D,D,,,C,,,C,A,6.03,";Attended Motivational Camp
+;Member of Recycling Club",2.89,3.68,Computer Science & Information Technology,No
+2025/05/09 11:28:06 PM GMT+8,,20,Male,Malaysian,"Below RM4,850",8,D,B,B+,B,A-,,,,C+,,G,A+,7.12,";Assistant Treasurer of Club
+;Class Assistant Monitor for two years",3.21,2.43,Accounting,No
+2025/05/05 4:41:16 PM GMT+8,,20,Male,Malaysian,"Above RM15,040",9,D,D,B,C,A,,G,,B,A-,B+,,5.13,National or State Awards,3.12,2.6,Engineering,Yes
+2025/06/30 5:39:03 PM GMT+8,,21,Female,Malaysian,"RM10,971 – RM15,040",9,A+,A+,A-,A-,,A,A,A-,A-,A-,,,9.13,";Finalist in International Astronomy Olympiad 2022
+;Directed Short Film for National Anti-Bullying Campaign
+;Runner-up in National Tennis Junior Cup
+;Best Research Paper Award at National Young Scientists Conference
+;Mentor for Junior Achievement Leadership Program
+",3.93,3.95,Accounting,Yes
+2025/03/27 6:52:46 PM GMT+8,yue-kobayashi@gmail.com,23,Female,Malaysian,"Above RM15,040",10,B,A,B,A+,B,,B,A-,A,A,,B,8.5,";Member of Science Explorers Club
+;Member of School Photography Club
+;Volunteer for Water Station in Marathon
+;Member of Drama Society
+;Participant in Local Drawing Contest",3.55,3.84,"Business, Management & Finance",Yes
+2025/05/04 6:47:30 PM GMT+8,,22,Male,Malaysian,"RM10,971 – RM15,040",11,A,A+,B+,B,,A+,A+,B+,B,A-,A-,B,8.81,";Gold Medalist in Malaysia Junior Health Science Olympiad 2022 
+;Vice President of Public Health Awareness Club 2023 
+;Organized Youth Healthy Communities
+;Captain of State Softball Team
+;Selected for ASEAN Youth Program 2023",3.78,3.91,Accounting,Yes
+2025/05/09 10:21:11 PM GMT+8,,Others,Male,Malaysian,"RM10,971 – RM15,040",10,C+,C,A,A+,B,,E,G,C+,G,,A+,7.16,";Volunteer in Mural Painting
+;Helped Set Up Recycling Bins
+;Distributed Flyers during School Campaign",3.02,2.88,Economics / Public Policy,No
+2025/05/01 10:50:36 AM GMT+8,,Others,Female,Malaysian,"RM4,851 – RM7,100",9,A,A,A,A,A,,C,C+,B,C,,,6.32,";Participated in Online Student Forum
+;Joined Poster Design Competition",2.78,2.68,Science & Mathematics,No
+2025/05/04 11:38:32 AM GMT+8,,21,Male,Malaysian,"Above RM15,040",11,A+,B+,A,A-,B+,,A+,A,A+,B+,B,B+,8.46,";Winner of the International Science and Engineering Fair (ISEF) Regional 2023 
+;Vice President of IT Club, Initiated Tech for Good Hackathon 2022 
+;Head Organizer of Inter-School Innovation Competition 2023 
+;Striker for State Football Team, Qualified for Asian Junior Cup 
+;Selected for National Research Scholars Program 2023
+",3.73,3.69,Actuarial Science / Statistics,Yes
+2025/05/09 6:39:22 PM GMT+8,,23,Male,Malaysian,"RM4,851 – RM7,100",8,D,B,G,E,,A,,C+,A+,,A+,,7.54,";Participated in Environmental Walk
+;Joined School Charity Club",3.2,3.05,Computer Science & Information Technology,No
+2025/07/01 1:28:36 PM GMT+8,,22,Male,Malaysian,"Below RM4,850",10,A,A,A,A,A+,,A+,A,A,A,,A,9.2,";Organizer of State Robotics League 2022
+;Chairperson of Regional Sports Meet 2018
+;Lead of Community-level Innovation Expo 2021
+;Mentor of National Innovation Expo 2022
+;Organizer of Global Art Festival 2022
+",3.91,3.95,Actuarial Science / Statistics,Yes
+2025/06/30 8:09:11 PM GMT+8,,21,Female,Malaysian,"Above RM15,040",9,A+,A,A+,A,,A-,A,A,A,A+,,,9.34,";Active Member of School Environmental Awareness Movement
+;Represented School in International Youth Science Forum
+;Organizer of Monthly School Recycle Day
+;Secretary of Student Council, Led Mental Health Awareness Campaign
+;Winner of University Sponsored Cultural Essay Writing",3.96,3.97,Computer Science & Information Technology,No
+2025/03/27 6:52:48 PM GMT+8,yuriy-bai@gmail.com,Others,Female,Non-Malaysian,"RM7,101 – RM10,970",9,A-,B+,D,B,C+,,G,C,A-,C,,,7.5,National or State Awards,3.05,3.19,Law / Legal Studies,No
+2025/05/05 4:54:25 PM GMT+8,,22,Female,Malaysian,"Below RM4,850",10,A-,B+,C+,A-,,A+,A+,A,D,A-,,B,5.19,";Participant in Short Story Writing Contest
+;Participant in Local Fun Run",3,2.74,"Business, Management & Finance",No
+2025/05/09 9:18:59 PM GMT+8,,23,Male,Malaysian,"RM7,101 – RM10,970",9,C+,C,C,D,,C+,,D,E,A,,G,7.97,";Joined recycling campaign  
+;Attended club briefing  
+;Participated in online quiz",2.99,2.8,Economics / Public Policy,No
+2025/05/09 8:02:29 PM GMT+8,,22,Male,Malaysian,"RM7,101 – RM10,970",8,E,B+,A-,D,A,,E,B,C,,,,7.87,";Wore traditional clothes on cultural day  
+;Took photo at school booth  
+;Voted in class monitor election",2.77,3.49,"Business, Management & Finance",No
+2025/03/27 6:50:53 PM GMT+8,erla_ndlovu@gmail.com,23,Male,Malaysian,"RM4,851 – RM7,100",9,B+,C+,C,C+,A-,,G,D,,B+,E,,6.5,Leadership roles,3.8,3.58,Economics / Public Policy,Yes
+2025/05/09 9:11:34 PM GMT+8,,20,Male,Malaysian,"Above RM15,040",8,A-,D,A+,C,,B+,B+,,,,B+,D,9.47,";Attended general assembly  
+;Signed up for library membership  ",3.65,3.62,Computer Science & Information Technology,No
+2025/05/10 6:10:28 PM GMT+8,,20,Female,Malaysian,"Above RM15,040",8,C+,A,E,E,A-,,A-,,,,C,B,5.34,";Registered for a competition (did not attend)  
+;Watched a debate session  ",3.64,3.34,Economics / Public Policy,No
+2025/05/10 6:04:47 PM GMT+8,,Others,Female,Malaysian,"Below RM4,850",8,C,C,C+,C+,C+,,A+,,C+,,,A-,6.92,";Helped arrange chairs for school event  
+;Followed club Instagram page  
+;Joined online webinar but left early  ",3.67,2.85,"Business, Management & Finance",No
+2025/05/01 10:38:05 PM GMT+8,,20,Female,Malaysian,"RM4,851 – RM7,100",9,A,A,A+,A,A+,,B,A-,A-,B+,,,9.95,";Setiausaha Program Derma Darah BSMM, 2025
+;Naib Pengerusi Kadet Bomba, 2022
+;Bendahari Kelab Memanah, 2022
+;Exco Kerohanian Asrama, 2022
+;Setiausaha Kelab Robotik, 2020",3.44,3.95,"Business, Management & Finance",Yes
+2025/05/10 10:33:23 PM GMT+8,,20,Female,Malaysian,"Above RM15,040",9,C+,C+,G,A+,,C,C+,,A+,,B,D,4.51,";Subscribed to school newsletter  
+;Helped distribute pamphlets ",2.53,2.85,Economics / Public Policy,No
+2025/05/10 7:28:06 PM GMT+8,,20,Female,Malaysian,"RM10,971 – RM15,040",9,E,A+,C,B+,C+,,A,B,D,,,D,7.05,";Joined sports day 
+;Filled online form for competition
+;Attended first club meeting only ",3.56,2.3,"Business, Management & Finance",No
+2025/05/05 5:03:49 PM GMT+8,,20,Female,Malaysian,"RM4,851 – RM7,100",9,C,D,A,A,B,,E,,A-,G,,B,5.7,;Took part in classroom decoration  ,2.89,2.83,Law / Legal Studies,No
+2025/05/09 2:18:59 PM GMT+8,,20,Male,Malaysian,"Above RM15,040",7,C+,A,E,C+,C,,,C+,,,,E,7.81,";Helped clean up after club meeting  
+;Followed instructions during fire drill  ",2.98,2.72,Science & Mathematics,No
+2025/06/30 8:03:57 PM GMT+8,,21,Female,Malaysian,"Above RM15,040",9,A,A,A+,A+,,A-,A,A,A,A,,,9.76,";1st Place at National BioGenomics Hackathon
+;First Prize in ASEAN Chemistry Quiz 2023
+;Head Prefect of Secondary School, Managed 30-member discipline team",3.78,3.69,Science & Mathematics,Yes
+2025/05/04 5:42:09 PM GMT+8,,21,Male,Malaysian,"RM10,971 – RM15,040",8,B,A,B,A,A-,,B,,,B,A-,,9.88,";Winner of Malaysia Junior Engineering Hackathon 2023 
+;Secretary of Literature Enthusiasts Club, Hosted National Poetry Competition 2022 
+;Organizer of Youth Digital Literacy Camp 2022 
+;Striker of State Hockey Team, Silver Medalist in Youth Games 
+;Selected for ASEAN Youth Leadership Forum 2023
+",3.78,3.88,"Business, Management & Finance",Yes
+2025/05/04 6:52:23 PM GMT+8,,22,Female,Malaysian,"RM7,101 – RM10,970",11,B,A,B+,A-,A-,,B,B+,A-,A+,A,B+,9.95,";Gold Medalist at Malaysia Future Builders Engineering Competition 2022 
+;Vice President of Innovation for Good Club, Led Social Impact Hackathon 2023 
+;Organizer of STEM Solutions for Youth Conference 2022 
+;Represented State at National Basketball Championship 
+;Selected for ASEAN Emerging Young Leaders Fellowship 2023
+",3.74,3.65,Law / Legal Studies,No
+2025/03/27 6:50:48 PM GMT+8,jamesfeldman@gmail.com,20,Female,Malaysian,"RM7,101 – RM10,970",9,A,A+,B+,B+,B,,A+,A,A,A-,,,8.5,";Performer of Community-level Robotics League 2019
+;Lead of District Coding Marathon 2020
+;President of District Science Fair 2021
+;Coordinator of ASEAN Art Festival 2023
+;Founder of District Research Symposium 2024",3.75,3.79,Science & Mathematics,Yes
+2025/06/30 4:37:34 PM GMT+8,,21,Female,Malaysian,"RM10,971 – RM15,040",9,A,A,A-,A+,A+,,A-,A-,A-,A-,,,9.29,";District Representative in State Cricket Cup
+;Winner of Inter-School Badminton Tournament 2023
+;Best Research Paper Award at National Young Scientists Conference
+;Volunteered 100 Hours at Local Public Library
+;Grand Prize Winner in Intel ISEF 2022
+",3.95,3.89,Others,Yes
+2025/03/27 6:52:47 PM GMT+8,birgir+rungrueang264@gmail.com,22,Female,Malaysian,"RM4,851 – RM7,100",8,C+,G,C,C+,,D,E,C,G,,,,8.5,";Head Organizer of National Robotics Competition 2022
+;Lead Coordinator for University Entrepreneurship Summit 2019
+;Judge at International Young Inventors' Showcase 2024
+;Committee Member for Local Community Outreach Program 2017
+;Facilitator of Youth Leadership Workshop 2023",3.8,3.69,"Business, Management & Finance",No
+2025/07/01 3:21:23 PM GMT+8,,22,Male,Malaysian,"Below RM4,850",10,A+,A,A-,A,,A,A-,A,A,A,,A-,9.42,";Organizer of ASEAN Robotics League 2021
+;Mentor of Inter-School Digital Arts Contest 2018
+;President of District Research Symposium 2022
+;President of Community-level Debate Championship 2024
+;Chairperson of Online Leadership Forum 2021
+",3.91,3.89,Science & Mathematics,Yes
+2025/07/01 4:16:45 PM GMT+8,,22,Male,Malaysian,"Below RM4,850",10,A,A,A+,A,,A,A+,A,A-,A-,A-,,9.24,";Performer of Online Art Festival 2021
+;Lead of National Coding Marathon 2022
+;Ambassador of Regional Digital Arts Contest 2023
+;Mentor of National Debate Championship 2018
+;Lead of District Innovation Expo 2020
+",3.92,3.91,Accounting,Yes
+2025/07/01 4:06:46 PM GMT+8,,22,Male,Malaysian,"Below RM4,850",10,A+,A+,A,A,,A+,A,A,A-,A-,A+,,9.35,";Performer of Regional Art Festival 2020
+;Founder of Community-level Debate Championship 2022
+;President of Community-level Digital Arts Contest 2022
+;Ambassador of Online Coding Marathon 2023
+;Chairperson of Global Innovation Expo 2019
+",3.72,3.75,"Business, Management & Finance",Yes
+2025/07/01 1:17:12 PM GMT+8,,22,Male,Malaysian,"Below RM4,850",10,A+,A+,A+,A+,A+,,A,A,A-,A,,A,9.57,"Founder of Global Science Fair 2021
+;Captain of Inter-School Robotics League 2024
+;Ambassador of Global Research Symposium 2019
+;Organizer of Regional Robotics League 2020
+;Lead of National Debate Championship 2018
+",3.72,3.75,Computer Science & Information Technology,Yes
+2025/03/27 6:50:37 PM GMT+8,tamar+musa845@gmail.com,Others,Female,Malaysian,"RM4,851 – RM7,100",10,D,D,A,C+,B+,,C,C,D,C+,,A-,9.2,National or State Awards,3.55,3.84,Economics / Public Policy,Yes
+2025/05/05 11:46:27 PM GMT+8,,23,Male,Malaysian,"RM7,101 – RM10,970",10,C+,A-,C,B,A+,,D,,D,A,B,C,5.86,";Member of Traditional Games Club
+;Member of Gardening Club
+;Participant in Short Story Writing Contest",2.83,3.05,Accounting,No
+2025/05/09 6:44:48 PM GMT+8,,22,Male,Malaysian,"Below RM4,850",10,B,C,A+,A-,,D,B,C,C,,C,A,9.22,";Attended online club orientation  
+;Shared event poster on social media  ",3.49,2.98,"Business, Management & Finance",No
+2025/05/10 12:41:35 PM GMT+8,,21,Male,Malaysian,"Above RM15,040",10,A-,B,D,B+,B,,E,B+,A+,,A+,B+,8.28,";Donated one item for charity drive  
+;Sat in during club photo session  
+;Responded to attendance roll call  ",3.14,3.3,Economics / Public Policy,No
+2025/03/27 6:52:45 PM GMT+8,zhen+zawadzki395@gmail.com,23,Male,Malaysian,"RM4,851 – RM7,100",9,A,A-,A,B+,A+,,A+,A-,A-,,C+,,8.7,";Program Chair for National STEM Olympiad 2023
+;Editor-in-Chief of University Research Journal 2021
+;Lead Presenter at International Medical Symposium 2024
+;Organizing Committee Member for Regional History Conference 2019
+;Scientific Advisor for Young Innovators' Challenge 2022",3.75,3.97,Actuarial Science / Statistics,Yes
+2025/07/06 9:25:19 AM GMT+8,,21,Male,Malaysian,"Below RM4,850",10,A+,A+,A+,A+,A+,A+,A+,A+,A+,A+,,,9.89,";Organizer of Online Innovation Expo 2022
+;Performer of Regional Leadership Forum 2021
+;Coordinator of Inter-School Sports Meet 2020
+;President of Global Digital Arts Contest 2024
+;Captain of State Sports Meet 2023",3.96,3.96,Computer Science & Information Technology,Yes
+2025/05/09 11:32:15 PM GMT+8,,23,Male,Malaysian,"RM7,101 – RM10,970",8,D,A,B+,D,C,,B,,,,B,B,8.4,";Helped carry boxes before event  
+;Watched performance during school concert  
+;Submitted feedback form after event",2.79,3.72,Science & Mathematics,No
+2025/05/04 4:32:57 PM GMT+8,,20,Male,Malaysian,"RM7,101 – RM10,970",11,A+,B+,B,A+,,B+,B,A,B,B+,A-,B,8.88,";Winner of Malaysia Junior Social Entrepreneurship Competition 2023 
+;Treasurer of Sustainable Development Society, Led Green Solutions Forum 2022 
+;Main Organizer of State Renewable Energy Summit 2022 
+;Represented State at National Cycling Competition 
+;Selected for Youth Entrepreneurship Bootcamp 2023",3.88,4,Accounting,Yes
+2025/05/04 9:38:12 PM GMT+8,,23,Female,Malaysian,"RM4,851 – RM7,100",10,C+,D,B+,C+,,A+,C,A,,A-,A,D,7.44,";Assistant Stage Crew Member
+;Member of Chess Club",3.34,3.28,Economics / Public Policy,Yes
+2025/05/05 12:04:00 AM GMT+8,,23,Male,Malaysian,"Above RM15,040",9,C+,B,B,C+,,A+,B+,A+,B+,B+,,,5.19,";Member of Gardening Club
+;Participant in Career Talk Program",3.07,3.29,Accounting,No
+2025/05/04 8:47:03 PM GMT+8,,22,Male,Malaysian,"RM7,101 – RM10,970",11,A,B+,C+,C+,C+,,A,C+,B,B+,D,A-,6.4,";Member of Science Explorers Club
+;Participant in Cyber Safety Workshop",3.02,2.51,Accounting,No
+2025/05/05 4:50:23 PM GMT+8,,20,Female,Malaysian,"RM7,101 – RM10,970",9,B+,B,A+,D,B,,A,,A+,A+,B,,6.22,";Member of Public Speaking Practice Group
+;Participant in Aerobic Session",3.36,2.84,"Business, Management & Finance",No
+2025/05/09 7:50:45 PM GMT+8,,22,Male,Malaysian,"RM10,971 – RM15,040",9,D,B,B+,C,,A,G,B,,C,G,,8.78,";Helped distribute food during gotong-royong  
+;Joined one-day leadership workshop  
+;Helped decorate booth for club exhibition",2.83,2.62,Science & Mathematics,No
+2025/05/04 8:27:14 PM GMT+8,,21,Female,Malaysian,"RM10,971 – RM15,040",11,A,A,B,C+,C+,,C+,A+,B+,C+,D,A,5.52,";Volunteered for one session of blood donation  
+;Participated in online school survey  ",2.61,3,Economics / Public Policy,No
+2025/04/21 4:46:37 PM GMT+8,,22,Male,Malaysian,"Below RM4,850",7,A,C+,A-,A+,A+,,B+,,,,B+,,9,";Virtual Orienteering International 2021
+;Boria Competition between Practicums 2021
+;Member of Special Duties under the Computer Science Association Club ",3.4,3.5,Computer Science & Information Technology,No
+2025/06/30 4:30:49 PM GMT+8,,21,Female,Malaysian,"RM10,971 – RM15,040",9,A,A+,A+,A+,,A+,A+,A,A,A+,,,9.23,";Champion of State Karate-Do Open Tournament
+;Finalist in International Astronomy Olympiad 2022
+;Co-founder of STEM Girls Malaysia",4,3.87,Law / Legal Studies,Yes
+2025/05/10 9:51:54 PM GMT+8,,21,Female,Malaysian,"RM7,101 – RM10,970",8,D,E,A-,E,,A,B,D,,,,E,9.87,";Booth Helper during Sports Day
+;Member of Library Club",3.7,3.54,Law / Legal Studies,No
+2025/05/04 6:38:47 PM GMT+8,,23,Male,Malaysian,"RM4,851 – RM7,100",10,B+,A+,B,B,,A+,,A+,B,A-,A,A,9.11,";Directed State Youth Science Adventure Week 2022 
+;Wing Player for State Volleyball Team, Silver Medalist at Youth Finals 
+;Selected for UNESCO Future Science Fellows Program 2023",3.89,3.6,"Business, Management & Finance",Yes
+2025/06/30 6:49:58 PM GMT+8,,21,Female,Malaysian,"Above RM15,040",9,A,A+,A+,A+,,A+,A+,A,A,A,,,9.2,";Team Leader for ASEAN Future Leaders Camp
+;Secretary of Student Council, Led Mental Health Awareness Campaign
+;Grand Prize Winner in Intel ISEF 2022",3.91,3.92,Science & Mathematics,Yes
+2025/04/21 9:41:06 PM GMT+8,,21,Male,Malaysian,"RM7,101 – RM10,970",9,B,A,A-,A,A-,,C+,B+,C,C,,,7,";Best Students for PT3
+;Compete in National Chemistry Quiz
+;President of Kelab Koperasi
+;Joining Perkhemahan Unit Ko-Kurikulum in state Level (Selangor)",3.75,3.22,Computer Science & Information Technology,No
+2025/07/01 4:51:10 PM GMT+8,,22,Male,Malaysian,"Below RM4,850",10,A,A,A+,A+,,A+,A+,A,A,A,A+,,9.23,";Mentor of State Digital Arts Contest 2023
+;Lead of University-level Art Festival 2018
+;Mentor of Global Sports Meet 2022",3.92,3.89,Actuarial Science / Statistics,Yes
+2025/07/01 4:37:11 PM GMT+8,,22,Male,Malaysian,"Below RM4,850",10,A,A,A-,A,A,,A,A,A,A-,A-,,9.3,";Coordinator of Community-level Sports Meet 2021
+;Lead of Inter-School Art Festival 2020
+;Lead of ASEAN Art Festival 2019",3.92,3.96,Science & Mathematics,Yes
+2025/05/10 6:40:37 PM GMT+8,,21,Female,Malaysian,"RM10,971 – RM15,040",7,C+,C,C+,B,,A-,G,,,,D,,7.65,";Member of Library Club
+;Booth Helper during Sports Day",2.69,2.43,Science & Mathematics,No
+2025/06/30 8:04:46 PM GMT+8,,21,Female,Malaysian,"Above RM15,040",9,A,A,A-,A,A+,,A-,A-,A,A,,,9.65,";Directed Short Film for National Anti-Bullying Campaign
+;Bronze Medalist in National Archery Championship
+;National Taekwondo Silver Medalist 2022",3.97,3.96,Accounting,Yes
+2025/03/27 6:52:46 PM GMT+8,franciscawood@gmail.com,21,Male,Malaysian,"RM7,101 – RM10,970",9,A,A+,C+,B,,B,A,A-,B+,A+,,,7.5,";Helped Decorate Notice Board for Class  
+;Attended Motivational Talk at School Hall  
+;Joined Basic First Aid Demonstration Session",3.8,3.69,"Business, Management & Finance",Yes
+2025/06/30 2:24:03 PM GMT+8,,22,Male,Malaysian,"Below RM4,850",10,A+,A,A+,A+,,A,A,A+,A+,A+,A+,,8.82,";Runner-up in MSSM Handball Tournament
+;Ambassador for Malaysia Youth Entrepreneurship Program",3.96,3.92,Science & Mathematics,Yes
+2025/05/04 6:27:46 PM GMT+8,,21,Male,Malaysian,"Below RM4,850",11,A,A,A-,A+,A,,A+,A+,A,A+,A,A,8.7,";Winner of State Young Innovators Competition 2023 
+;Hosted Youth Technological Empowerment Day 2022 
+;Striker for State Football Team, Bronze Medalist at Regional Cup 
+;Selected for Global Sustainable Cities Youth Fellowship 2023",3.6,3.83,"Business, Management & Finance",Yes
+2025/03/27 6:52:47 PM GMT+8,somnuek.feldman@gmail.com,21,Male,Malaysian,"RM7,101 – RM10,970",10,A,A+,A-,A-,,B+,A-,B+,A,A,B,,8.7,";Ranked Top 3 in Malaysian National Coding League
+;Chief Editor of English Literary Journal, Published Nationwide
+;Head of STEM Carnival 2022 at School Level",3.67,3.84,Computer Science & Information Technology,Yes
+2025/05/04 6:34:31 PM GMT+8,,20,Female,Malaysian,"RM4,851 – RM7,100",11,A,A-,A,A+,,A+,A,A,B,B+,B,A-,9.4,";Champion of Malaysia Junior Climate Science Challenge 2023 
+;Organized Future Earth Innovation Hackathon 2022 
+;Striker for State Rugby Team, Champion of Junior Cup 
+;Selected for Global Clean Energy Youth Fellowship 2023",3.62,3.8,Economics / Public Policy,Yes
+2025/06/30 2:46:51 PM GMT+8,,21,Female,Malaysian,"RM7,101 – RM10,970",9,A,A-,A+,A-,A,,A+,A+,A,A,,,9.5,";Winner of Inter-School Badminton Tournament 2023
+;First Place in State-Level Traditional Dance Contest
+;Editor-in-Chief of School Magazine, Published 2 Annual Editions",3.97,3.92,Actuarial Science / Statistics,Yes
+2025/05/05 7:22:30 PM GMT+8,,20,Female,Malaysian,"RM4,851 – RM7,100",9,B,A-,D,C,,A,C+,,,D,B+,A+,5.38,";Member of Music Appreciation Group
+;Member of Board Games Club
+;Member of Science Explorers Club
+;Participant in Mini Recycling Competition",2.77,2.77,Others,No
+2025/03/27 6:52:47 PM GMT+8,blessingrumbelow@gmail.com,22,Male,Malaysian,"Below RM4,850",10,B,C+,B+,C,,D,D,A-,,C,C+,C,9.5,";Member of Chess Club
+;Member of Road Patrol Team
+;Participant in Career Talk Program
+;Participant in Language Week Activities
+;School Carnival Booth Helper",3.92,3.84,Computer Science & Information Technology,No
+2025/05/10 11:20:14 PM GMT+8,,20,Female,Malaysian,"RM10,971 – RM15,040",9,A+,C+,C,C,,A,D,E,,,B,G,7.43,";Booth Helper during Sports Day
+;Attended Motivational Camp
+;Joined Photography Club
+;Participated in School Clean-up
+;Member of Library Club",2.62,3.27,Science & Mathematics,Yes
+2025/05/10 11:00:43 PM GMT+8,,21,Female,Malaysian,"RM10,971 – RM15,040",10,E,A-,A,B,,C,B+,E,B+,C,C,,9.74,";Assistant Treasurer of Club
+;Volunteer in Blood Donation Drive
+;Committee Member of Eco Club
+;Represented School in Drama
+;Class Monitor",3.66,3.52,Law / Legal Studies,No
+2025/03/27 6:50:48 PM GMT+8,alexomar528@gmail.com,21,Female,Malaysian,"RM10,971 – RM15,040",10,B+,B,A+,A+,B,,A,B+,A,A-,A,,7.5,";National Science Challenge Winner
+;Gold Medal in My Digital Maker Fair
+;Champion in Bahas Bahasa Melayu Ala Parlimen",3.8,3.75,Science & Mathematics,Yes
+2025/05/01 8:21:25 AM GMT+8,,20,Female,Malaysian,"RM7,101 – RM10,970",8,A-,A,A,A+,A-,,B+,A,A-,,,,4.2,;Joined school charity day as assistant,3.81,3.73,Computer Science & Information Technology,No
+2025/05/10 6:03:30 PM GMT+8,,21,Female,Malaysian,"RM10,971 – RM15,040",10,C+,A,D,G,E,,A,C,,A-,B+,G,5.58,";Assistant Treasurer of Club
+;Represented School in Drama
+;Committee Member of Eco Club
+;Volunteer in Blood Donation Drive
+;Class Monitor",3.67,2.45,Engineering,No
+2025/03/27 6:50:53 PM GMT+8,masami.simiyu@gmail.com,20,Male,Malaysian,"RM10,971 – RM15,040",10,B,A+,B,C+,A,,A-,B,A,B+,A-,,7.5,";Assisted Teacher During Parent-Teacher Day  
+;Helped Distribute Exam Papers to Classmates  
+;Joined Monthly Book Review Sessions  
+;Participated in Local Fire Safety Awareness Talk",3.92,3.97,"Business, Management & Finance",Yes
+2025/03/27 6:50:38 PM GMT+8,cristina-adebayo@gmail.com,22,Male,Malaysian,"RM10,971 – RM15,040",9,A+,B,A,C+,,B+,B+,A+,A-,A-,,,8.5,";Assisted in Class Attendance Monitoring  
+;Participated in School Poster Making Competition  
+;Volunteered at Library During Recess  
+;Joined Weekly Moral Education Discussions  ",3.92,3.84,Science & Mathematics,No
+2025/05/09 11:12:57 PM GMT+8,,21,Male,Malaysian,"Above RM15,040",10,B,B,A-,A+,,D,E,D,A-,A+,A,,5.22,";Assistant Treasurer of Club
+;Committee Member of Eco Club
+;Class Monitor
+;Represented School in Drama
+;Volunteer in Blood Donation Drive",3.88,2.43,Accounting,No
+2025/05/10 7:34:12 PM GMT+8,,Others,Female,Malaysian,"Below RM4,850",8,B,D,A-,G,E,,A-,,,,B+,C+,7.66,";Participated in School Clean-up
+;Booth Helper during Sports Day
+;Joined Photography Club
+;Attended Motivational Camp
+;Member of Library Club",3.34,2.36,Engineering,No
+2025/05/10 11:57:26 AM GMT+8,,22,Male,Malaysian,"RM4,851 – RM7,100",7,B,C+,A-,A-,,A,,G,C,,,,9.33,";Class Monitor
+;Committee Member of Eco Club
+;Volunteer in Blood Donation Drive
+;Assistant Treasurer of Club
+;Represented School in Drama",3.07,2.39,Law / Legal Studies,No
+2025/05/10 11:43:30 AM GMT+8,,20,Male,Malaysian,"RM7,101 – RM10,970",10,C+,E,B+,A+,B+,,C+,A,G,A,,B,7.01,";Member of Library Club
+;Booth Helper during Sports Day
+;Joined Photography Club
+;Attended Motivational Camp
+;Participated in School Clean-up",3.99,3.13,"Business, Management & Finance",No
+2025/05/09 10:49:19 PM GMT+8,,21,Male,Malaysian,"RM10,971 – RM15,040",8,A-,B+,B,E,E,,G,A+,,,E,,5.54,";Class Monitor
+;Volunteer in Blood Donation Drive
+;Assistant Treasurer of Club
+;Committee Member of Eco Club
+;Represented School in Drama",3.24,2.49,Computer Science & Information Technology,No
+2025/05/01 11:17:46 AM GMT+8,,22,Male,Malaysian,"Above RM15,040",10,B+,B+,A,A+,A+,,A+,B+,C+,,A+,A+,8,";Participated in School Bulletin Board Decoration Team  
+;Volunteered for School Sports Day Setup  
+;Contributed Articles to Class Newsletter  ",3.78,3.54,Computer Science & Information Technology,Yes
+2025/03/27 6:50:37 PM GMT+8,isabelnovikov320@gmail.com,22,Male,Malaysian,"RM4,851 – RM7,100",10,B+,A-,B+,A,C+,,A-,B,A+,,B+,A,7.5,";Joined School Recycling Day Volunteer Team  
+;Active Member of School Debate Club  
+;Attended Local Community Clean-Up Program  
+;Managed Booth at School Canteen Day  ",3.92,3.58,"Business, Management & Finance",Yes
