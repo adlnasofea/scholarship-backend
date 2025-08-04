@@ -117,23 +117,6 @@ def compute_bert_score(text):
     bonus = min(len(lines), 5) * 0.01
     return base_score + bonus
 
-@app.route('/login', methods=['POST'])
-def login():
-    try:
-        data = request.get_json()
-        username = data.get('username')
-        password = data.get('password')
-        cur = mysql.connection.cursor()
-        cur.execute("SELECT password_hash FROM admin_users WHERE username = %s", (username,))
-        result = cur.fetchone()
-        cur.close()
-        if result and check_password_hash(result[0], password):
-            return jsonify({"success": True, "message": "Login successful"})
-        else:
-            return jsonify({"success": False, "message": "Invalid username or password"}), 401
-    except Exception as e:
-        return jsonify({"success": False, "message": str(e)}), 500
-
 @app.route('/predict', methods=['POST'])
 def predict():
     try:
