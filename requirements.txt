@@ -7,3 +7,6 @@ scikit-learn
 transformers
 tensorflow
 joblib
+sentence-transformers
+flask-mysqldb
+python-dotenv
